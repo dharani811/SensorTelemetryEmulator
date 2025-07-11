@@ -19,5 +19,4 @@ As part of my daily practice during my transition period, I wanted to model a re
 💡 Tech behind it:
 .NET 8 · Async/Await · Channels · OOP · System Design Principles
 
-📎 GitHub: [your repo link]
 Always open to feedback, thoughts, or collaborations.
