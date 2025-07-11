@@ -1,0 +1,14 @@
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\bin\Debug\net8.0\MultiSensorChannels.exe
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\bin\Debug\net8.0\MultiSensorChannels.deps.json
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\bin\Debug\net8.0\MultiSensorChannels.runtimeconfig.json
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\bin\Debug\net8.0\MultiSensorChannels.dll
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\bin\Debug\net8.0\MultiSensorChannels.pdb
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\MultiSensorChannels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\MultiSensorChannels.AssemblyInfoInputs.cache
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\MultiSensorChannels.AssemblyInfo.cs
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\MultiSensorChannels.csproj.CoreCompileInputs.cache
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\MultiSensorChannels.dll
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\refint\MultiSensorChannels.dll
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\MultiSensorChannels.pdb
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\MultiSensorChannels.genruntimeconfig.cache
+D:\Personal\Coding\MultiSensorChannels\MultiSensorChannels\obj\Debug\net8.0\ref\MultiSensorChannels.dll
